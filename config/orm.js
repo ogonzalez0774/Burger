@@ -1,5 +1,5 @@
 // Dependencies
-const connection = require("./connection.js");
+const connection = require("./connection");
 
 // Object Relational Mapper
 // Passing in query parameters for all 3 methods
