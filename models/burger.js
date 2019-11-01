@@ -8,7 +8,7 @@ const burger = {
         });
     },
     insertOne: function (burgerName, cb) {
-        origin.insertOne("burgers", "burger_name", burgerName, function (res) {
+        orm.insertOne("burgers", "burger_name", burgerName, function (res) {
             cb(res)
         });
     },
