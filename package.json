@@ -1,8 +1,8 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "make burger, then eat burger",
+  "main": "y",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
