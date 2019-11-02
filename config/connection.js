@@ -5,7 +5,6 @@ const connection = mysql.createConnection({
     host: "localhost",
     user: "root",
     password: "Ford2015@",
-    socketPath: 'mysql-socket-path',
     database: "burgers_db"
 });
 
